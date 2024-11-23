@@ -21,8 +21,8 @@ module.exports = {
           buttons: [
             {
               type: "web_url",
-              url: "https://www.facebook.com/kennethfranciscoaceberos",
-              title: "Contact Admin 1"
+              url: "https://www.facebook.com/profile.php?id=61550941044179",
+              title: "Contact Admin (JmLabaco)"
             },
             {
               type: "web_url",
